@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+p{
+    color:rgb(0, 0, 0);
+    background-color: rgb(255,167,167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#duo{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+.tres{
+    font-size: 24px;
+}
+#cuatro{
+    color:rgb(0, 0, 0);
+    background-color: rgb(128, 255,128);
+    font-weight: bold;
+}
